@@ -5,7 +5,6 @@ public class Kubus06 {
         int volume = sisi * sisi * sisi;
         System.out.println("Volume kubus = " + volume);
     }
-
     static void hitungLuasPermukaan(int sisi) {
         int luas = 6 * sisi * sisi;
         System.out.println("Luas permukaan kubus = " + luas);
